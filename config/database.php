@@ -12,9 +12,9 @@
  */
 
 $db['db_url']       =   "localhost";
-$db['db_name']      =   "db_ecamina";
-$db['db_user']      =   "root";
-$db['db_pass']  =   "961531931";
+$db['db_name']      =   "";
+$db['db_user']      =   "";
+$db['db_pass']  =   "";
 //http://www.php.net/manual/en/refs.database.php
 $db['db_type']      =   "mysql";
 
